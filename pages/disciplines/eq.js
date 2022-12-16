@@ -120,7 +120,7 @@ export default function fim() {
       </main>
 
       <footer className={styles.footer}>
-          @Copyright 2023 Richard Angapin | All Right Reserved
+      @Copyright 2023 Don Ricardo | All Right Reserved  
       </footer>
     </div>
   );
