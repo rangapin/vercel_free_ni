@@ -5,7 +5,7 @@
 .main {
   width: 100%;
   min-height: 100vh;
-  padding: 20rem 0;
+  padding: 10rem 0;
   font-size: 20px;
   display: block;
 }
@@ -59,7 +59,6 @@
 }
 
 .code {
-  background: black;
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.5rem;
