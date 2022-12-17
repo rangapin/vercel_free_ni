@@ -18,7 +18,6 @@
   display: flex;
   flex: 1;
   padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
 }
@@ -110,7 +109,7 @@
   margin-left: 0.5rem;
 }
 
-@media (prefers-color-scheme: white) {
+@media (prefers-color-scheme: dark) {
   .card,
   .footer {
     border-color: #222;
@@ -150,7 +149,7 @@
   .main {
     width: 100%;
   }
-  
+
   .home {
     display: flex;
   }
@@ -184,5 +183,6 @@
 
 .footer {
   display: flex;
+  border: none;
 }
 }
