@@ -5,7 +5,7 @@
 .main {
   width: 100%;
   min-height: 100vh;
-  padding: 10rem 0;
+  padding: 20rem 0;
   font-size: 20px;
   display: block;
 }
@@ -109,19 +109,6 @@
   margin-left: 0.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  .card,
-  .footer {
-    border-color: #222;
-  }
-  .code {
-    background: #111;
-  }
-  .logo img {
-    filter: invert(1);
-  }
-}
-
 .skill {
   display: flex;
   justify-content: center;
@@ -134,7 +121,7 @@
 
 .video {
   display: flex;
-  margin-top: 12px;
+  margin: 20px;
   flex-wrap: wrap;
   align-content: stretch;
   justify-content: center;
@@ -144,14 +131,20 @@
 
   .container {
     display: grid;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
   }
 
   .main {
     width: 100%;
+    padding: 5rem 0;
   }
 
   .home {
     display: flex;
+    padding: 3rem;
   }
 
   .grid {
@@ -159,6 +152,7 @@
     justify-content: center;
     padding-bottom: 2rem;
   }
+
   .title {
     text-align: center;
     font-size: larger;
@@ -169,6 +163,7 @@
   .video {
     display: flex;
     width: 480px;
+    padding-bottom: 1rem;
 }
 
   .skill {
