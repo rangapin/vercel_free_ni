@@ -131,6 +131,7 @@
   .container {
     display: grid;
     width: 100%;
+    padding: 0;
   }
 
   .main {
@@ -140,7 +141,7 @@
 
   .home {
     display: flex;
-    padding: 3rem;
+    padding: 0;
   }
 
   .grid {
