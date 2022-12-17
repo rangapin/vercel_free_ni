@@ -110,7 +110,7 @@
   margin-left: 0.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: white) {
   .card,
   .footer {
     border-color: #222;
@@ -146,6 +146,11 @@
   .container {
     display: grid;
   }
+
+  .main {
+    width: 100%;
+  }
+  
   .home {
     display: flex;
   }
