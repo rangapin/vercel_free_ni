@@ -51,7 +51,7 @@ export default function Home() {
         </div>
       </div>
       <footer className={styles.footer}>
-          @Copyright 2023 Don Ricardo | All Right Reserved  
+          @Copyright 2023 Richard Angapin | All Right Reserved  
       </footer>
     </div>
   );
