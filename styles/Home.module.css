@@ -3,8 +3,9 @@
 }
 
 .main {
+  width: 100%;
   min-height: 100vh;
-  padding: 4rem 0;
+  padding: 10rem 0;
   font-size: 20px;
   display: block;
 }
