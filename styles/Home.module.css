@@ -177,5 +177,6 @@
 .footer {
   display: flex;
   border: none;
+  font-size: 10px;
 }
 }

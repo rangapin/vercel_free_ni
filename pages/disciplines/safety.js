@@ -124,14 +124,12 @@ export default function fim() {
             </ul>
           </div>
           <div class={styles.video}>
-            <iframe
-              width="854" height="480"
-              src="https://www.youtube.com/embed/VTuD39fZSlI"
-              title="Surface blackout rescue | Freediving Skills"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+          <iframe width="1237" 
+          height="696" 
+          src="https://www.youtube.com/embed/sEdpKjfaF20" 
+          title="Deepwater blackout rescue | Freediving Skills" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class={styles.skill}>
             <h2>Towing From Behind</h2>
